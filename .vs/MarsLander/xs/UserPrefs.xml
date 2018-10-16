@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{93E3F31E-9F04-4F4F-AD5E-2954593B294B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarsLander/MarsLander.cs">
+    <Files>
+      <File FileName="MarsLander/Program.cs" Line="1" Column="1" />
+      <File FileName="MarsLander/MarsLander.cs" Line="54" Column="4" />
+      <File FileName="MarsLander/MarsLanderHistory.cs" Line="1" Column="1" />
+      <File FileName="MarsLander/UserInterface.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MarsLander PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
